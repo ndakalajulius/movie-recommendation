@@ -1,6 +1,7 @@
 import React, { useState, useEffect } from "react";
-import axios from 'axios/dist/browser/axios.cjs';
-import './App.css';
+
+import axios from 'axios';
+import './App.css'
 import LoginForm from "./LoginForm";
 import SignUpForm from "./SignUpForm";
 import NavBar from "./NavBar";
