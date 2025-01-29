@@ -1,0 +1,21 @@
+.recommendations {
+    margin-top: 20px;
+    padding: 10px;
+    background-color: #f8f8f8;
+    border-radius: 10px;
+  }
+  
+  .recommendations h2 {
+    color: #ff4500;
+  }
+  
+  .recommendations ul {
+    list-style: none;
+    padding: 0;
+  }
+  
+  .recommendations li {
+    margin: 5px 0;
+    font-weight: bold;
+  }
+  

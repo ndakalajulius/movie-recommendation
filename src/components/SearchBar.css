@@ -1,0 +1,10 @@
+.search-bar {
+    width: 80%;
+    max-width: 400px;
+    padding: 10px;
+    margin: 10px auto;
+    border: 2px solid #ff4500;
+    border-radius: 5px;
+    font-size: 16px;
+  }
+  
